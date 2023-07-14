@@ -1,0 +1,11 @@
+C:\Users\novarayX\source\repos\rotatingcube\rotatingcube\bin\Debug\rotatingcube.exe.config
+C:\Users\novarayX\source\repos\rotatingcube\rotatingcube\bin\Debug\rotatingcube.exe
+C:\Users\novarayX\source\repos\rotatingcube\rotatingcube\bin\Debug\rotatingcube.pdb
+C:\Users\novarayX\source\repos\rotatingcube\rotatingcube\obj\Debug\rotatingcube.csproj.AssemblyReference.cache
+C:\Users\novarayX\source\repos\rotatingcube\rotatingcube\obj\Debug\rotatingcube.csproj.SuggestedBindingRedirects.cache
+C:\Users\novarayX\source\repos\rotatingcube\rotatingcube\obj\Debug\rotatingcube.Properties.Resources.resources
+C:\Users\novarayX\source\repos\rotatingcube\rotatingcube\obj\Debug\rotatingcube.csproj.GenerateResource.cache
+C:\Users\novarayX\source\repos\rotatingcube\rotatingcube\obj\Debug\rotatingcube.csproj.CoreCompileInputs.cache
+C:\Users\novarayX\source\repos\rotatingcube\rotatingcube\obj\Debug\rotatingcube.exe
+C:\Users\novarayX\source\repos\rotatingcube\rotatingcube\obj\Debug\rotatingcube.pdb
+C:\Users\novarayX\source\repos\rotatingcube\rotatingcube\obj\Debug\rotatingcube.Art.resources
